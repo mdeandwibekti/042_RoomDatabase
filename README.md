@@ -8,5 +8,10 @@ keluar validasi
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f8606723-a24a-49bf-b74d-e9b1b9ace37a" />
 tampilan kosong setelah di hapus
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/31f71e3e-8a89-4066-ada0-ed86868a9da4" />
+halaman edit
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7639d648-2c49-44dc-9e2e-3ffc6d0d01d0" />
+halaman sesudah edit
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/020404d1-b38b-4939-a149-5afc846d6c38" />
+
 
 
