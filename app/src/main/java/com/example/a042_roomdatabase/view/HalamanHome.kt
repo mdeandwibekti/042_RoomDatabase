@@ -46,7 +46,7 @@ import com.example.a042_roomdatabase.view.route.DestinasiHome // Asumsi lokasi D
 @Composable
 fun HomeScreen(
     navigateToItemEntry: () -> Unit,
-    navigateToDetail: (Int) -> Unit,
+    navigateToItemUpdate: (Int) -> Unit,
     modifier: Modifier = Modifier,
     viewModel: HomeViewModel = viewModel(factory = PenyediaViewModel.Factory)
 ) {
@@ -77,7 +77,7 @@ fun HomeScreen(
         val uiStateSiswa by viewModel.homeUIState.collectAsState()
         BodyHome(
             itemSiswa = uiStateSiswa.listSiswa,
-            onSiswaClick = navigateToDetail,
+            onSiswaClick = navigateToItemUpdate,
             modifier = Modifier
                 .padding(innerPadding)
                 .fillMaxSize()
